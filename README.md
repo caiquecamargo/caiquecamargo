@@ -13,13 +13,14 @@ I'm a Fullstack Developer or even better an Solutions Architect, passionate for 
   <img align="center" alt="Caique-Rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg">
   <img align="center" alt="Caique-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Caique-AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" alt="Caique-CPLUSPLUS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <br>
   <br>
   <br>
 </div>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecamargo&layout=compact&theme=dracula)
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiquecamargo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiquecamargo&layout=compact&langs_count=7&theme=dracula"/>
 
 ### You can encounter me on
 
